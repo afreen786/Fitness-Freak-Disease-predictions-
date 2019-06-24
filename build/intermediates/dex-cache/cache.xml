@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f5bed4b78dabee590906c59999039894c19d066c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b69cde95a2db8f3001ad6632e089a062ae51044a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_ce66e0aa54c155d5aa0f66e22b4fac1c5af826b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6f86a2cd7ff8029244fc3fbd46b169cebc9c9197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d91b9e9d8ce26647c3288921cbea94459a311861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f9b293dae703db1d538ed64fc1f8155ff47e8b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_cd7f221e9bb1004dfdcbb2638297f769811c8dc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_63fa814a307af61d86d2041f9b0863b14709d43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_ad03200f19eae604ab64d5e98697a5301876e697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5e6fa152234d9e2c7678a44fea83ae0f18ad80df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/libs/httpclient-4.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcacc35075d9c3114da4c4122b42d78786135c90">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/httpclient-4.0.3_b7acb4c58fbb5eaaa61d9d7afcbfaf8fbc595fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_018bc0199bea76ec06175dcf9c6a673309a6b24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_fe70331ad7b85c661547df4d09f71acc0c7a6f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f9b293dae703db1d538ed64fc1f8155ff47e8b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_3f04b7591d82e6d7ccd7acdf9ae12a95f037ab8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_659f8ce335b2ffad35244144235db7880117942e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_8eabe72e19a98212203e776659f55c1f722532ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/libs/http-core-4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/http-core-4.1_6d5c0d8e6ed707fd9496b28348ffc93cf8014d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_ce66e0aa54c155d5aa0f66e22b4fac1c5af826b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b69cde95a2db8f3001ad6632e089a062ae51044a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d91b9e9d8ce26647c3288921cbea94459a311861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_3f04b7591d82e6d7ccd7acdf9ae12a95f037ab8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89fcf4cc55a63b29a4337a16c8d155d83fe5589b">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_efb17db68a8b960486fe3baa5c708ab48d23da85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_63fa814a307af61d86d2041f9b0863b14709d43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63d319fb24038c14a4cb36b3be2a447fa30f82fc">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/instant-run_7d7babcfffc4528667eec7aeac3adc7fbee59154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_fe70331ad7b85c661547df4d09f71acc0c7a6f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f5bed4b78dabee590906c59999039894c19d066c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_cd7f221e9bb1004dfdcbb2638297f769811c8dc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_018bc0199bea76ec06175dcf9c6a673309a6b24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_8eabe72e19a98212203e776659f55c1f722532ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5e6fa152234d9e2c7678a44fea83ae0f18ad80df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6f86a2cd7ff8029244fc3fbd46b169cebc9c9197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/libs/httpclient-4.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcacc35075d9c3114da4c4122b42d78786135c90">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/httpclient-4.0.3_b7acb4c58fbb5eaaa61d9d7afcbfaf8fbc595fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/libs/http-core-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/http-core-4.1_6d5c0d8e6ed707fd9496b28348ffc93cf8014d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_ad03200f19eae604ab64d5e98697a5301876e697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sejal/prediction/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sejal/prediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_659f8ce335b2ffad35244144235db7880117942e.jar" />
+    </item>
+
+</items>
